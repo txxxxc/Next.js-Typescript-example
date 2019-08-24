@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/tomoyatanaka/.anyenv/envs/nodenv/versions/8.10.0/bin/node /Users/tomoyatanaka/.anyenv/envs/nodenv/versions/8.10.0/bin/yarn init --y
+
+PATH: 
+  /Users/tomoyatanaka/.anyenv/envs/nodenv/versions/8.10.0/bin:/Users/tomoyatanaka/.anyenv/envs/nodenv/libexec:/Users/tomoyatanaka/.anyenv/envs/nodenv/plugins/nodenv-vars/bin:/Users/tomoyatanaka/.anyenv/envs/nodenv/plugins/nodenv-default-packages/bin:/Users/tomoyatanaka/.anyenv/envs/nodenv/plugins/node-build/bin:/usr/local/:Cellar/yarn/1.17.3:/Users/tomoyatanaka/.yarn/bin/lib/node_modules/vue-cli/bin:/Users/tomoyatanaka/.yarn/bin:/Users/tomoyatanaka/.gem/ruby/2.0.0/bin:/Users/tomoyatanaka/.anyenv/envs/rbenv/shims:/Users/tomoyatanaka/.anyenv/envs/rbenv/bin:/Users/tomoyatanaka/.anyenv/envs/pyenv/shims:/Users/tomoyatanaka/.anyenv/envs/pyenv/bin:/Users/tomoyatanaka/.anyenv/envs/nodenv/shims:/Users/tomoyatanaka/.anyenv/envs/nodenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/:Cellar/yarn/1.17.3:/Users/tomoyatanaka/.yarn/bin:/Users/tomoyatanaka/.gem/ruby/2.0.0/bin:/Users/tomoyatanaka/.anyenv/envs/rbenv/shims:/Users/tomoyatanaka/.anyenv/envs/rbenv/bin:/Users/tomoyatanaka/.anyenv/envs/pyenv/shims:/Users/tomoyatanaka/.anyenv/envs/pyenv/bin:/Users/tomoyatanaka/.anyenv/envs/nodenv/shims:/Users/tomoyatanaka/.anyenv/envs/nodenv/bin:/usr/local/bin:/usr/local/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  8.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/tomoyatanaka/.anyenv/envs/nodenv/versions/8.10.0/lib/node_modules/yarn/lib/cli.js:125801:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:775:16)
+      at ReadStream.onkeypress (readline.js:160:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1011:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
