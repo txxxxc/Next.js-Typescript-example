@@ -10,7 +10,7 @@ export default (app: Express.Application) => {
       host: REDIS_HOST,
       port: REDIS_PORT
     }),
-    secret: 'kyeboard cat',
+    secret: 'keyboard cat',
     resave: false
   }
   app.use(session(option))
